@@ -1,0 +1,4 @@
+[submodule "third_party/icu"]
+    ignore = untracked
+	path = third_party/icu
+	url = https://github.com/apache/incubator-pagespeed-icu.git
